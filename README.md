@@ -2,7 +2,7 @@
 
 <br />
 
-<h2 align="left">Youtube Links</h2>
+<h2 align="left">Youtube Link</h2>
 
 <p align="left">
     <samp>
@@ -17,9 +17,8 @@
 
 <p align="left">
     <samp>
-        - 🌱 Dark Mode
+        - 🌱 Kanban board
+        - 🌱 Add Task
     </samp>
     </br>
 </p>
-# ToDo
-# ToDo
